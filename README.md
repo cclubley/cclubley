@@ -3,6 +3,6 @@
 - ✍️ I’m currently working on modelling larval dispersal of Pacific oysters 
 - 💭 I’m currently learning how to create Spatial Graph Networks
 
-[![Charlotte's GitHub stats](https://github-readme-stats.vercel.app/api?username=cclubley&count_private=true&show_icons=true)](https://github.com/cclubley/github-readme-stats)
+[![Charlotte's GitHub stats](https://github-readme-stats.vercel.app/api?username=cclubley&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/cclubley/github-readme-stats)
 
 
