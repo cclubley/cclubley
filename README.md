@@ -21,7 +21,7 @@
 You can find me on [![Twitter][1.2]][1]
 <!-- Icons -->
 
-[1.2]: https://img.icons8.com/ios/50/000000/twitter--v1.png (twitter icon without padding)
+[1.2]: https://img.icons8.com/officexs/16/000000/twitter.png (twitter icon without padding)
 
 <!-- Links to your social media accounts -->
 
