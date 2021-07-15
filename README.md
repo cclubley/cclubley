@@ -9,3 +9,6 @@
 <a href="https://github.com/cclubley/cclubley">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cclubley&langs_count=2&theme=tokyonight&hide_border=true" />
 </a>
+
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=2bbc8a)
