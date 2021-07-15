@@ -3,6 +3,8 @@
 - ✍️ I’m currently working on modelling larval dispersal of Pacific oysters 
 - 💭 I’m currently learning how to create Spatial Graph Networks
 
+## &#x1f4c8; GitHub Stats
+
 <a href="https://github.com/cclubley/cclubley">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cclubley&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" />
 </a>
@@ -10,5 +12,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cclubley&langs_count=2&theme=tokyonight&hide_border=true" />
 </a>
 
+
+## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=2bbc8a)
