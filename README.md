@@ -1,7 +1,4 @@
-## I am a first year PhD student at the University of Plymouth, focusing on environmental filtering and non-native species
-
-- ✍️ I’m currently working on modelling larval dispersal of Pacific oysters 
-- 💭 I’m currently learning how to create Spatial Graph Networks
+## I am a first year PhD student at the University of Plymouth, researching the application of the environmental filtering framework to non-native species
 
 ## &#x1f4c8; GitHub Stats
 
