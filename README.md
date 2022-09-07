@@ -1,4 +1,4 @@
-## I am a first year PhD student at the University of Plymouth researching the application of the environmental filtering framework to non-native species
+## I am a third year PhD student at the University of Plymouth researching the application of the environmental filtering framework to non-native species
 
 ## &#x1f4c8; GitHub Stats
 
