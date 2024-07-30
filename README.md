@@ -1,4 +1,4 @@
-## I am a third year PhD student at the University of Plymouth researching non-native species and the effects of eco-engineering on biodiversity
+## I am a Postdoctoral Fellow at Aarhus University researching the impacts of offshore wind farms, including potential for multi-use with low-trophic aquaculture and effects on non-indigenous species spread 
 
 ## &#x1f4c8; GitHub Stats
 
